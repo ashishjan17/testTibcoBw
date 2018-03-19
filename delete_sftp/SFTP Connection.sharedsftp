@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BWSharedResource>
+    <name>SFTP Connection</name>
+    <resourceType>ae.shared.SFTPuserChannel</resourceType>
+    <config>
+        <Timeout>60000</Timeout>
+        <Port>22</Port>
+        <PrivKeyVerification>false</PrivKeyVerification>
+        <StrictHostkeyCheck>false</StrictHostkeyCheck>
+        <Host>ftp3.inucn.com</Host>
+        <UserName>BUS4593801</UserName>
+        <Password>#!xNh2UXUqCFrsyGoexCFq/Sfqt+C5yTUuvgCSlJLk8xg=</Password>
+    </config>
+</BWSharedResource>
